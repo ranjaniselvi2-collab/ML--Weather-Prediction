@@ -83,3 +83,5 @@ print("Average CV Score:", cv_scores.mean())
 
 
 ## Result:
+
+The Random Forest Algorithm successfully predicted daily temperature, PM2.5 pollution level, and energy consumption accurately using environmental sensor data.
